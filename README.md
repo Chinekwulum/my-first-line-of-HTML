@@ -1,1 +1,3 @@
-# my-first-line-of-HTML
+ >doctype<
+ >head<
+>body<
